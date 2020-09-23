@@ -1,6 +1,9 @@
 # Squarespace
 ###### Jeroen Vervaeck en Morgane Bekaert - CMS Development
 
+### Video
+[Link naar de video](https://www.youtube.com/watch?v=wpjnQ9G6XI4&feature=youtu.be&fbclid=IwAR15hPh0HdLQC6VzMHN9dEQwR7C8qk0lrjUS-V71KJuiwnUMTovHnhTkFZo&ab_channel=morganebekaert)
+
 ## Oprichting
 De oprichter en CEO van Squarespace Inc. heet Antony Casalena. Hij startte de website in 2003 vanuit zijn studentenkamer in University of Maryland. Ondertussen heeft squarespace vestiging in Portland, Dublin en hun hoofdkwartier in NYC. Ze hebben meer dan 1000 werknemers die meehelpen het bedrijf te laten groeien. Samen hebben ze miljoenen klanten geholpen met het online plaatsen van hun websites.
 
